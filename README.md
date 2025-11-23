@@ -1,6 +1,7 @@
 # LucidLANTA
 Implementing Lucid [used to be tensorflow] with Pytorch in LANTA Clusters
 
+## [LANTA_AI_IMPLEMENTATION.md => deleted]
 # AI Modules Implementation on LANTA Cluster
 
 ## 🎯 Overview
