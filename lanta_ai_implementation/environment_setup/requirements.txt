@@ -1,0 +1,68 @@
+# LANTA Cluster AI Requirements
+# Core AI frameworks (should be loaded as modules instead)
+# torch>=1.12.0
+# tensorflow>=2.9.1
+# jax>=0.3.15
+
+# Scientific computing
+numpy>=1.21.0
+scipy>=1.8.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data processing
+pandas>=1.4.0
+scikit-learn>=1.1.0
+Pillow>=9.0.0
+
+# Deep learning utilities
+torchvision>=0.13.0
+torchaudio>=0.12.0
+tensorboard>=2.9.0
+
+# Distributed training
+horovod>=0.24.0
+mpi4py>=3.1.0
+
+# Performance optimization
+numba>=0.56.0
+psutil>=5.9.0
+
+# Visualization
+plotly>=5.10.0
+wandb>=0.13.0
+tensorboardX>=2.5.0
+
+# Development tools
+jupyter>=1.0.0
+ipykernel>=6.15.0
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Profiling and debugging
+py-spy>=0.3.0
+memory-profiler>=0.60.0
+nvidia-ml-py>=11.450.0
+
+# I/O and data formats
+h5py>=3.6.0
+tqdm>=4.64.0
+pyyaml>=6.0.0
+
+# Optional: Computer vision
+opencv-python>=4.6.0
+albumentations>=1.2.0
+
+# Optional: Natural language processing
+transformers>=4.20.0
+datasets>=2.3.0
+tokenizers>=0.12.0
+
+# Optional: Reinforcement learning
+gym>=0.21.0
+stable-baselines3>=1.6.0
+
+# Security and reproducibility
+cryptography>=37.0.0
+hashlib-compat>=1.0.0
